@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../mrc/mrc-protalento/cursofullstack/visualstudiocode"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
